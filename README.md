@@ -1,0 +1,1 @@
+This is the first project as part of the Odin Project curriculum. It involved building a (non-functional) copy of the Google homepage.
